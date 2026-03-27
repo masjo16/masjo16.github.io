@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "JVM"
-  pronouns         : "she/him"  
+  pronouns         : "he/him"  
   bio              : "Library & Archives / formerly Spatial Ecology & Remote Sensing"
   location         : "Peterborough, ON"
   employer         : "Trent University"
@@ -33,7 +33,7 @@ author:
   email            : "jamesmarcaccio@trentu.ca" 
 
   # Academic websites
-  academia         : "https://trentu.libcal.com/appointments/jamesmarcaccio"
+  LibCal         : "https://trentu.libcal.com/appointments/jamesmarcaccio"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.ca/citations?user=2yd0amkAAAAJ&hl=en"
   inspire-hep      : # URL
