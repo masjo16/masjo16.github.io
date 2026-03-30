@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Mapping in ArcGIS"
+excerpt: "Guide to creating a map from data ingestion to output image using ArcGIS Pro. Created by Devan Desai, a student in our unit, with the outline and input from me. <br/><Link to the GitHub page [here](https://trentu-madgic.github.io/Mapping-in-ArcGIS/)>"
 collection: portfolio
 ---
 
