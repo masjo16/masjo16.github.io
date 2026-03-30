@@ -1,6 +1,7 @@
 ---
 title: "Mapping in ArcGIS"
-excerpt: "Guide to creating a map from data ingestion to output image using ArcGIS Pro. Created by Devan Desai, a student in our unit, with the outline and input from me. <br/><Link to the GitHub page [here](https://trentu-madgic.github.io/Mapping-in-ArcGIS/)>"
+excerpt: "Guide to creating a map from data ingestion to output image using ArcGIS Pro. Created by Devan Desai, a student in our unit, with the outline and input from me."
+link:  https://trentu-madgic.github.io/Mapping-in-ArcGIS/
 collection: portfolio
 ---
 
