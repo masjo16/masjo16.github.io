@@ -12,7 +12,7 @@ James (he/him) is a spatial ecologist who now works as a GIS and Data Systems Sp
 
 I earned my Ph.D. in Biology from McMaster University in the Chow-Fraser Lab and mostly focussed on [invasive *Phragmites*](https://macsphere.mcmaster.ca/bitstream/11375/24346/2/Marcaccio_James_V_2019April_PhD.pdf). Following that, I worked at Fisheries & Oceans Canada (aka DFO) in the Midwood Lab completing projects on remote sensing of fish habitat. Some [worked](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41120796.pdf), some [didn't](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41291116.pdf), but that's how science goes!
 
-
+My email is over there <-- or you can [book and appointment with me](https://trentu.libcal.com/appointments/jamesmarcaccio)
 
 
 How I made this page
